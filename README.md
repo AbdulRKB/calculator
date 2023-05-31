@@ -1,7 +1,7 @@
 <div align="center">
 
 # Calculator
-*Proxy Inside a Calculator*
+***simple** calculator, with **simple** ui*
 </div>
 
 > **Usage:** enter 45 & press equal
